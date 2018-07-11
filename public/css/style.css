@@ -1,3 +1,84 @@
 body {
 	margin: 0;
 }
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+	background-color: #ffffff;
+	padding: 1% 0;
+	font-size: 1.2em;
+	color: #424141bb;
+}
+.navbar-brand {
+
+	min-height: 60px;
+	padding: 0 15px 5px;
+}
+.navbar-brand img {
+	width: 100px;
+	height: 60px;
+}
+.navbar-default .navbar-nav li a {
+	font-family: 'Volkhov', serif;
+	color: #D5D5D5;
+}
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav li a.active {
+	color: #000000;
+}
+
+#paragraph {
+	text-align: inherit;
+	color: #686565;
+	font-family: 'Patrick Hand', cursive;
+}
+#section {
+	font-size: 100%;
+	font-family: 'Bree Serif', serif;
+	padding: 50px;
+	text-align: center;
+}
+#section img {
+	border: 1px solid white;
+	border-radius: 10px;
+}
+h2{
+	text-align: left;
+}
+footer {
+	padding: 25px 0;
+	text-align: center;
+	border-top: 1px solid #D3D3D3;
+}
+.copyright {
+	font-size: 90%;
+	line-height: 40px;
+	text-transform: none;
+	font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.quicklinks li a {
+	font-size: 90%;
+	line-height: 40px;
+	margin-bottom: 0;
+	text-decoration: none;
+	color: #000000;
+	font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.quicklinks li a:hover {
+	color: #0c59e9;
+}
+.social-buttons li a {
+	font-size: 20px;
+	line-height: 40px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	color: white;
+	border-radius: 100%;
+	outline: none;
+	background-color: #212529;
+}
+.social-buttons li a:hover {
+	background-color: #1F45FC;
+	text-decoration: none;
+}
