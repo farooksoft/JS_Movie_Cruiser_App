@@ -22,5 +22,25 @@
     }
   ],
   "favourites": [
+    {
+      "id": 1,
+      "title": "Kaala",
+      "posterPath": "/images/Kaala.jpg"
+    },
+    {
+      "id": 2,
+      "title": "YennaiArindhal",
+      "posterPath": "/images/YennaiArindhal.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Sarkar",
+      "posterPath": "/images/Sarkar.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Naanum Rowdy Than",
+      "posterPath": "/images/NaanumRowdy.jpg"
+    }
   ]
 }
